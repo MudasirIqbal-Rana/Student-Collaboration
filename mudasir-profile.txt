@@ -1,4 +1,4 @@
-Name: Mudasir Iqbal
+Name: Mudasir Iqbal 
 Department: Software Engineering
-University: UET Taxila
-Interests: Web Development, Machine Learning
+University: UET Taxila 
+Interests: Web Development, Machine Learning, Deep Learining
